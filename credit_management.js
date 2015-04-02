@@ -1,4 +1,4 @@
-
+//Credit Management System Js File...
   var getEmail = document.getElementById('getEmail');
     var getPwd = document.getElementById('getPass');
     var chkPwd = document.getElementById('CheckPass');
